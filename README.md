@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RohitSharma-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohit-sharma-24412a206/)
 [![Email](https://img.shields.io/badge/Email-sharmarohit637782@gmail.com-red?style=flat-square&logo=gmail)](mailto:sharmarohit637782@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-RohitSharma-black?style=flat-square&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-RohitSharma-black?style=flat-square&logo=github)](https://github.com/rohit8272)
 
 ---
 

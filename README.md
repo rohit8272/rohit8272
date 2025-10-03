@@ -42,6 +42,3 @@ I am passionate about **clean code**, **solving real-world problems**, and conti
 *Backend Developer Intern* | Jan 2024 – May 2024  
 - Refactored and enhanced core APIs, increasing backend performance by 5%  
 - Gained hands-on experience in Linux system administration and deployment automation  
-
-## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit8272&theme=radical)

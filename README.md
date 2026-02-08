@@ -34,8 +34,8 @@ I am passionate about **clean code**, **solving real-world problems**, and conti
 
 **Adcuratio Media Inc., Bengaluru, India**  
 *Junior Software Developer* | May 2024 – Present  
-- Developed and maintained authentication modules, integrating SSO, CAPTCHA, and Aptpay payment gateway  
-- Automated Promotions management with Celery & Redis, improving task accuracy by 25%  
+- Implemented and maintained the authentication module across multiple projects, integrating third-party services. 
+- Led the design and ownership of a scalable OCR and YOLO-based computer vision microservice for automated advertisement logo detection.
 - Optimized REST APIs, reducing backend response times by 30%  
 - Managed Docker-based deployments for multiple projects  
 

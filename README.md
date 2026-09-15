@@ -39,7 +39,3 @@ I'm also interested in **AI/ML engineering**, particularly building practical AI
 ## 🤝 Let's Connect
 
 I'm always interested in **Backend Engineering, AI/ML, Distributed Systems, and interesting technical problems.**
-
----
-- Refactored and enhanced core APIs, increasing backend performance by 5%  
-- Gained hands-on experience in Linux system administration and deployment automation  
